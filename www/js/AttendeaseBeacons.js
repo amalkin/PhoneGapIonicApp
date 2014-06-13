@@ -1,4 +1,4 @@
-cordova.define("com.attendease.ibeacons.AttendeaseBeacons", function(require, exports, module) {var exec = require('cordova/exec');
+var exec = require('cordova/exec');
 
 /**
  * Helpers
@@ -90,4 +90,4 @@ AttendeaseBeacons.prototype.fireEvent = function (eventName, data) {
 };
 
 var attendeaseBeacons = new AttendeaseBeacons();
-module.exports = attendeaseBeacons;});
+module.exports = attendeaseBeacons;

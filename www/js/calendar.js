@@ -1,4 +1,4 @@
-cordova.define("org.devgirl.calendar.Calendar", function(require, exports, module) {var calendar = {
+var calendar = {
     createEvent: function(title, location, notes, startDate, endDate, successCallback, errorCallback) {
         cordova.exec(
             successCallback, // success callback function
@@ -15,4 +15,4 @@ cordova.define("org.devgirl.calendar.Calendar", function(require, exports, modul
         ); 
     }
 }
-module.exports = calendar;});
+module.exports = calendar;

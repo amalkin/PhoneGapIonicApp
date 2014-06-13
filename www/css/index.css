@@ -64,6 +64,11 @@ body {
     text-transform: none;
 }
 
+#beacondetails {
+	padding:10px 0px 10px 10px;
+	background-color:#ff0000;
+}
+
 /* Landscape layout (with min-width) */
 @media screen and (min-aspect-ratio: 1/1) and (min-width:400px) {
     .app {

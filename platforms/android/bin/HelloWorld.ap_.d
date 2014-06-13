@@ -27,7 +27,10 @@ C:\_Alastair\_Development\PhoneGap\PhoneGapIonicApp\platforms\android\assets\www
 C:\_Alastair\_Development\PhoneGap\PhoneGapIonicApp\platforms\android\assets\www\spec.html \
 C:\_Alastair\_Development\PhoneGap\PhoneGapIonicApp\platforms\android\assets\www\css\index.css \
 C:\_Alastair\_Development\PhoneGap\PhoneGapIonicApp\platforms\android\assets\www\img\logo.png \
+C:\_Alastair\_Development\PhoneGap\PhoneGapIonicApp\platforms\android\assets\www\js\AttendeaseBeacons.js \
+C:\_Alastair\_Development\PhoneGap\PhoneGapIonicApp\platforms\android\assets\www\js\calendar.js \
 C:\_Alastair\_Development\PhoneGap\PhoneGapIonicApp\platforms\android\assets\www\js\estimoteBeaconFinder.js \
+C:\_Alastair\_Development\PhoneGap\PhoneGapIonicApp\platforms\android\assets\www\js\googleapiaccess.js \
 C:\_Alastair\_Development\PhoneGap\PhoneGapIonicApp\platforms\android\assets\www\js\index.js \
 C:\_Alastair\_Development\PhoneGap\PhoneGapIonicApp\platforms\android\assets\www\plugins\com.attendease.ibeacons \
 C:\_Alastair\_Development\PhoneGap\PhoneGapIonicApp\platforms\android\assets\www\plugins\org.devgirl.calendar \

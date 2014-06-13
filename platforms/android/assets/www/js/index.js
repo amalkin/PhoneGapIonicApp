@@ -111,3 +111,11 @@ var app = {
 		
 	}
 };
+
+function formatDistance(meters) {
+    if(meters > 1) {
+        return meters.toFixed(3) + ' m';
+    } else {
+        return (meters * 100).toFixed(3) + ' cm';
+    }
+}
